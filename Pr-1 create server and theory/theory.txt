@@ -1,0 +1,54 @@
+What is Node.js ?
+-Node.js is a cross-platform
+-Open source java script run time environment
+-buit on chrome v8 engine
+
+
+What is cross-platform ?
+-cross-platform is run on multiple operating system 
+-like window , linux , macos
+
+
+What is Server ?
+-Server is computer or system provides data , service or program to other computer
+-Server respond to request to client
+
+
+What is Server-Side-Script ?
+-javascript is write in the back-end for server is call server-side-script
+
+
+Alternative to Node.js
+-PHP
+-java
+-Python
+-Ruby
+
+
+REPL
+-Read  = user input the value in java script
+-Eval  = solve the code
+-Print = output
+-Loop  = repeat above command until user exit to REPL
+
+
+What is Global object in Node.js ?
+-__filename 
+-__dirname
+-Node.js provedes server global object accessible anywere in your app
+
+
+Node.js Moduals
+-a function that use for import or export
+- Types:- 
+         1.Core Moduals  :-
+                              built into node.js and do not require install
+                              example: http , url , fs , path
+         2.Local Moduals :-
+                              user defined function within the node.js application
+                              organized in separate files or direction
+         3.Third-party Moduals :-
+                              moduals available online via npm.
+                              they can be installed in a project or globaly
+                              example: mongoose , multer , passport
+
