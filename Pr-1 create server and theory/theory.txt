@@ -26,6 +26,8 @@ Alternative to Node.js
 
 
 REPL
+-REPL is an intractive shell that comes with node.js 
+-runs in terminal         
 -Read  = user input the value in java script
 -Eval  = solve the code
 -Print = output
